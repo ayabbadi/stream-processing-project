@@ -17,8 +17,8 @@ This repository contains a solution for managing customer and product communicat
 This project aims to provide a solution for businesses to optimize their customer and product communications, ensuring that messages are delivered effectively while avoiding excessive or intrusive interactions.
 
 ## Lambda architecture for project
-![project architecture](lambda-arch.png)
+![project architecture](/schemas-img/lambda-arch.png)
 
 ## Apache flume architecture
-![flume architecture](flume-arch.png)
+![flume architecture](/schemas-img/flume-arch.png)
 
